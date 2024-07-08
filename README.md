@@ -9,7 +9,7 @@ Guide dev:
 You need to have a Warpcast account to do this, otherwise sign up here and it costs $5.
 https://warpcast.com/~/invite-page/389634?id=23b86880
 
-Get FID:
+`Get FID:`
 
 Profile - > About
 

@@ -56,7 +56,7 @@ curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 ```
 docker logs hubble-hubble-1 2>&1 | grep "Hub Operator FID"
 ```
-`3.6` Check logs
+`3.6` Check logs - sync
 ```
 docker logs -f hubble-hubble-1
 ```

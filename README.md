@@ -46,5 +46,13 @@ sudo chmod +x /usr/local/bin/docker-compose
 curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 ```
 ![Farcaster1](https://github.com/nodesynctop/Farcaster/assets/124766822/9964f754-961e-44a5-b410-b2acaacc5291)
+Logs
+![Farcaster3](https://github.com/nodesynctop/Farcaster/assets/124766822/bbd414c2-8533-4f20-9df5-fc093a36dcc9)
+You can check whether the FID is correct with the code below.
+```
+docker logs hubble-hubble-1 2>&1 | grep "Hub Operator FID"
+```
+
+
 
 

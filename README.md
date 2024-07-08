@@ -15,7 +15,7 @@ https://warpcast.com/~/invite-page/389634?id=23b86880
 
 
 ## Minimum hardware requirement
-4 Cores, 8G Ram,  min 200G SSD, Ubuntu 22.04
+`4 Cores, 16G Ram,  min 200G SSD, Ubuntu 22.04`
 
 ## Install Node
 

@@ -33,7 +33,7 @@ sudo sh get-docker.sh
 sudo curl -L "https://github.com/docker/compose/releases/download/v2.20.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
-### 3. Config node
+### 3. Config node & start node
 
 `3.1`. Warpcast FID , you get before
 
@@ -59,6 +59,10 @@ docker logs hubble-hubble-1 2>&1 | grep "Hub Operator FID"
 `3.6` Check logs - sync
 ```
 docker logs -f hubble-hubble-1
+```
+### 4. Upgrade node 
+```
+cd $HOME/hubble && ./hubble.sh upgrade
 ```
 
 

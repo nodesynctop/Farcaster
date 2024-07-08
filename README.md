@@ -45,4 +45,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 ```
 curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 ```
+![Farcaster1](https://github.com/nodesynctop/Farcaster/assets/124766822/9964f754-961e-44a5-b410-b2acaacc5291)
+![Farcaster2](https://github.com/nodesynctop/Farcaster/assets/124766822/ef0ed348-50f7-4a17-873a-7bd792d9700e)
+
 

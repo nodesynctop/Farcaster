@@ -9,9 +9,7 @@ Guide dev:
 You need to have a Warpcast account to do this, otherwise sign up here and it costs $5.
 https://warpcast.com/~/invite-page/389634?id=23b86880
 
-`Get FID:`
-
-Profile - > About
+`Get FID:` Profile - > About
 
 ![warp](https://github.com/nodesynctop/Farcaster/assets/124766822/df6a2242-70d1-48e1-bc0f-7235dd441069)
 

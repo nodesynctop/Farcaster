@@ -34,10 +34,14 @@ sudo curl -L "https://github.com/docker/compose/releases/download/v2.20.2/docker
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 ### 3. Config node
+
 3.1. Warpcast FID , you get before
+
 3.2. You need provide ETH and RPC on the OP mainnet network. You can get it from https://dashboard.alchemy.com/apps/
 ![Farcaster](https://github.com/nodesynctop/Farcaster/assets/124766822/90d51120-9ea0-49f9-ac96-d4657364549c)
+
 3.3. Run and config
+
 ```
 curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 ```
